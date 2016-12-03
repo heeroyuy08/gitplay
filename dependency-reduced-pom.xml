@@ -6,9 +6,7 @@
   <name>dropwiz-play</name>
   <version>1.0-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
-  <properties>
-	<dummy.prop>value</dummy.prop>
-  </properties>
+
   <build>
     <plugins>
       <plugin>
